@@ -1,0 +1,9 @@
+.waysmain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.w1{
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+.procmain{
+    display: block;
+    margin-top: 120px;
+}
+
+#prop{
+    text-align: center;
+}
+
+.proccol{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+    margin-top: 50px;
+}
+
+#pli{
+    color: #0CA4C0;
+    margin-top: 50px;
+}
+

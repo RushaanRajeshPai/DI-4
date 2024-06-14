@@ -1,0 +1,42 @@
+.navbar-main{
+    display: flex;
+    flex-direction: row;
+}
+
+#nav-logo{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#nav-contents{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 440px;
+    margin-top: 25px;
+    font-size: 18px;
+    gap: 5.5vh;
+}
+
+#nav-btn{
+    margin-top: 40px;
+    margin-left: 350px; 
+    height: 40px;
+    width: 130px;
+    color: #0CA4C0;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-size: 15px;
+}
+
+#nav-btn:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+#home:hover,#about:hover,#services:hover,#features:hover{
+    cursor: pointer;
+    color: #0CA4C0;
+    font-weight: 500;
+    text-decoration: underline;
+}

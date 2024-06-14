@@ -1,0 +1,35 @@
+.markmain{
+    display: block;
+    margin-top: 120px;
+}
+
+#mh1{
+    text-align: center;
+}
+
+.otcols{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20vh;
+    margin-top: 60px;
+    text-align: center;
+}
+
+#oth2{
+    color: #0CA4C0;
+}
+
+#oth4{
+    color: #091A24;
+    margin-top: -15px;
+}
+
+#otp{
+    color: #091A24;
+}
+
+#otp1{
+    color: #091A24;
+    margin-top: -10px;
+}

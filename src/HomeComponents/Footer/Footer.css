@@ -1,0 +1,28 @@
+.footermain{
+    display: block;
+    margin-top: 120px;
+}
+
+.footercols{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footerend{
+    text-align: center;
+}
+
+#fcp{
+    color: #091A24;
+}
+
+#fcp:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+#imgsoc:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}

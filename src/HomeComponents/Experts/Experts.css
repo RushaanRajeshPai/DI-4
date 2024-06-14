@@ -1,0 +1,33 @@
+.exMain{
+    display: block;
+    margin-top: 120px;
+}
+
+.ex1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10vh;
+}
+
+.ex1right{
+    margin-top: 80px;
+}
+
+#exbtn{
+    height: 40px;
+    width: 130px;
+    color: #0CA4C0;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-size: 15px;
+}
+
+#exbtn:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.ex1left1{
+    margin-top: 105px;
+}

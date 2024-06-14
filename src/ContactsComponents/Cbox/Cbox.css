@@ -1,0 +1,20 @@
+.boxmain1{
+    height: 350px;
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid white;
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 80px;
+    color: black;
+}
+
+#boxab1{
+    font-size: 80px;
+}
+
+#boxp1{
+    font-size: 20px;
+    margin-top: -50px;
+    color: #091A24;
+}

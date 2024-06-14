@@ -1,0 +1,29 @@
+.pastmain{
+    display: block;
+    margin-top: 130px;
+    text-align: center;
+}
+
+.pastcols{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#pasth1{
+    color: #0CA4C0;
+    font-size: 50px;
+}
+
+#pasth2{
+    font-size: 40px;
+}
+
+#pastp{
+    margin-top: -20px;
+}
+
+#pasth3{
+    margin-top: -25px;
+}

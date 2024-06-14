@@ -1,0 +1,48 @@
+.levelMain{
+    background-color: #9fa1a2;
+    height: 500px;
+    margin-top: 40px;
+    padding-left: 80px;
+    padding-top: 90px;
+}
+
+#lets{
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+#levelup{
+    color: #FFFFFF;
+    margin-top: -20px;
+    font-size: 80px;
+}
+
+#levpara{
+    color: #FFFFFF;
+    margin-top: -35px;
+}
+
+#levip{
+    height: 65px;
+    width: 400px;
+    font-size: 16px;
+    padding-left: 20px;
+    background-color: #e3d4d4;
+    border-radius: 20px;
+    border: 1px solid #b9c8d0;
+}
+
+#levbtn{
+    height: 60px;
+    width: 150px;
+    margin-left: -160px;
+    background-color: #0CA4C0;
+    border-radius: 20px;
+    color: #FFFFFF;
+    border: 1px solid #9fa1a2;
+}
+
+#levbtn:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}

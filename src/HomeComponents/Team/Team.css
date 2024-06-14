@@ -1,0 +1,14 @@
+.teamMain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 120px;
+}
+
+.teams{
+    text-align: center;
+}
+
+#tp{
+    color: #091A24;
+}

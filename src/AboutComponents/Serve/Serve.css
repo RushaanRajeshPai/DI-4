@@ -1,0 +1,21 @@
+.servemain{
+    display: block;
+    margin-top: 120px;
+    align-items: center;
+}
+
+.servetop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.servebot{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20vh;
+    text-align: center;
+    margin-top: 55px;
+}
